@@ -10,5 +10,5 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-todo",
-  "hubot-github-comments-notifier"
+  "hubot-github-comment-notifier"
 ]
